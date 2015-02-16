@@ -1,0 +1,44 @@
+												30/01/15	11:49:49
+RBN4981					Praxair, Inc
+												Page -	1
+					Gera Pedido e Espelho da Remessa/Retorno Simbólico
+UC	      RBA231
+			Salvador
+URC	      RBU295		URC Itabuna
+Data		30/01/15
+VALOR BAIXA PRESSAO:			1.500,00			ALTA PRESSAO:		1.500,00
+Produto	Descrição				Data	NF	Serie	Tip.Doc/ Tip.Linha	QTDE		VALOR		Utilizado p/ Gerar Pedido
+40048667	Cilindro Oxigenio Med PAT				21/01/15	141469	200	A3/SA	20				SIM
+					05/01/15	536	120	V1/T1	2				SIM
+					31/12/14	7669	121	A3/SA	1				SIM
+					06/01/15	7677	121	A3/SA	1				SIM
+					06/01/15	7679	121	A3/SA	1				SIM
+					12/12/14	92883	4	A3/SA	1				SIM
+					12/12/14	92885	4	A3/SA	1				SIM
+					21/01/15	93670	4	A3/SA	5				SIM
+					23/12/14	4988	115	A3/SA	6				SIM
+					06/01/15	430	116	V1/T1	1				SIM
+					20/01/15	433	116	V1/T1	1				SIM
+					20/01/15	434	116	V1/T1	1				SIM
+					22/01/15	435	116	V1/T1	1				SIM
+					13/01/15	9755	5	V1/T1	4				SIM
+					14/01/15	7694	121	A3/SA	1				SIM
+					29/12/14	36258	300	V1/T1	20				SIM
+					29/12/14	139317	200	A3/SA	2				SIM
+					29/12/14	139339	200	A3/SA	1				SIM
+					24/12/14	10322	123	A3/SA	1				SIM
+					23/12/14	7662	121	A3/SA	1				SIM
+					23/12/14	7664	121	A3/SA	1				SIM
+					18/12/14	92904	4	A3/SA	1				SIM
+					23/12/14	92913	4	A3/SA	1				SIM
+					26/01/15	5055	115	A3/SA	3				SIM
+					31/12/14	139692	200	A3/SA	1				SIM
+					05/01/15	314	114	V1/T1	4				SIM
+Considerado para geração de pedido.								SALDO .....		15	22.500,00
+OBS: FAVOR EMITIR UMA NOTA FISCAL CONTRA A UNIDADE:       RBA231
+          RETRATANDO ESTE ESPELHO.
+                 NF.RET.COB: _____________ - 30/01/15
+                                                              RESUMO DE PEDIDOS DE ENTRADA CRIADOS AUTOMATICAMENTE
+FILIAL	ITEM	DESCRIÇÃO DO ITEM			DATA	QTD	PREÇO UNIT.		PREÇO		CIA	PEDIDO	TP
+      RBA231
+	40048667	Cilindro Oxigenio Med PAT			30/01/15	15,000	1.500,0000		22.500,00		02231	10663058	V4
